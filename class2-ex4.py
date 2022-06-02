@@ -18,3 +18,5 @@ print('r' in show)
 print('z' in show)
 
 
+
+
